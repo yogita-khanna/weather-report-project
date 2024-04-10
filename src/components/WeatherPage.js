@@ -39,7 +39,7 @@ function WeatherPage() {
   }
 
   return (
-    <div className="bg-green-300 h-full h-[647px] flex justify-center items-center">
+    <div className="bg-green-300 h-[647px] flex justify-center items-center">
   <div className="bg-white max-w-lg mt-10 rounded-xl shadow-2xl p-6">
     <h1 className="text-3xl font-bold mb-4">Weather for {city}</h1>
     <div className="grid grid-cols-2 gap-4">
